@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/PatientApp3/app/src/androidTest/androidTest.iml" filepath="$PROJECT_DIR$/PatientApp3/app/src/androidTest/androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PatientApp3/app/build/intermediates/bundle_manifest/bundle_manifest.iml" filepath="$PROJECT_DIR$/PatientApp3/app/build/intermediates/bundle_manifest/bundle_manifest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PatientApp3/app/build/intermediates/instant_app_manifest/debug/debug.iml" filepath="$PROJECT_DIR$/PatientApp3/app/build/intermediates/instant_app_manifest/debug/debug.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PatientApp3/app/build/generated/generated.iml" filepath="$PROJECT_DIR$/PatientApp3/app/build/generated/generated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PatientApp3/app/src/main/main.iml" filepath="$PROJECT_DIR$/PatientApp3/app/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PatientApp3/app/build/intermediates/merged_manifests/merged_manifests.iml" filepath="$PROJECT_DIR$/PatientApp3/app/build/intermediates/merged_manifests/merged_manifests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PatientApp3/app/src/test/test.iml" filepath="$PROJECT_DIR$/PatientApp3/app/src/test/test.iml" />
+    </modules>
+  </component>
+</project>
